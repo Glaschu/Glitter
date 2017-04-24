@@ -2,6 +2,8 @@ HI This GP3 cw
 To install you download it 
 using cmake open folder with cmaketext in it
 then in cmake create a build folder at the same place 
+build it for vs 2014
+
 open the glitter sln
 
 to add the resouces to the build move the res folder from the glitter folder with the headers and sources folders and move it to the build folder
